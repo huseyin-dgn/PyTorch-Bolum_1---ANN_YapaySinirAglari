@@ -13,7 +13,6 @@ Lütfen tekrarlamak ya da öğrenmek için bu repoyu ziyaret edip referans alın
 
 Bu repo, PyTorch öğrenmek isteyen kullanıcılar için kapsamlı bir rehberdir. Klasörler halinde düzenlenmiş olup, temel kullanımdan ileri seviye model tasarımlarına kadar tüm süreçleri içerir. Ayrıca, TensorFlow/Keras ile karşılaştırmalı bilgiler de sunulmaktadır.  
 
----
 
 ## 📂 Klasörler ve İçerikleri
 
