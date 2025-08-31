@@ -1,3 +1,14 @@
+## ℹ️ Dikkat
+
+⚠️ **Bu repoda temel ANN yapısı PyTorch ile anlatılmaktadır.**  
+Lütfen tekrarlamak ya da öğrenmek için bu repoyu ziyaret edip referans alınız.
+
+- https://github.com/huseyin-dgn/Deep-Learning-Fundamentals
+  
+
+
+---
+
 # 🚀 PyTorch Öğrenim Rehberi
 
 Bu repo, PyTorch öğrenmek isteyen kullanıcılar için kapsamlı bir rehberdir. Klasörler halinde düzenlenmiş olup, temel kullanımdan ileri seviye model tasarımlarına kadar tüm süreçleri içerir. Ayrıca, TensorFlow/Keras ile karşılaştırmalı bilgiler de sunulmaktadır.  
@@ -13,7 +24,6 @@ Bu repo, PyTorch öğrenmek isteyen kullanıcılar için kapsamlı bir rehberdir
 - 🔄 TensorFlow/Keras farkları ve karşılaştırmaları  
 
 ### 2️⃣ Tensorler ve OOP
-![Tensor Logo](https://upload.wikimedia.org/wikipedia/commons/5/56/TensorFlow.png)
 - 🟢 Tensor yapıları ve temel OOP (Object Oriented Programming)  
 - 👨‍💻 `self`, `__init__`, `super()` gibi kavramlar örneklerle anlatılmıştır  
 
@@ -42,4 +52,6 @@ Bu repo, PyTorch öğrenmek isteyen kullanıcılar için kapsamlı bir rehberdir
 ## 📌 Kullanım
 1. Reponun tamamını klonlayın:  
 ```bash
-git clone https://github.com/kullaniciadi/PyTorch-ANN-Repo.git
+git clone https://github.com/huseyin-dgn/PyTorch-ANN-Repo.git
+
+
